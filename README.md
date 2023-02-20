@@ -24,10 +24,10 @@
 
 <h3 align="left">My Projects: (WiP)</h3>
 
-![App Screenshot](https://clevor.co/imgs/projects/atlas/atlasBanner.png)
+![App Screenshot](https://clevor.co/oldImgs/projects/atlas/atlasBanner.png)
 
 #### Features
 
 - Light/dark mode toggle
 
-![App Screenshot](https://clevor.co/imgs/projects/atlas/atlasPreview.png)
+![App Screenshot](https://clevor.co/oldImgs/projects/atlas/atlasPreview.png)
