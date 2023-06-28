@@ -31,3 +31,10 @@
 - Light/dark mode toggle
 
 ![App Screenshot](https://clevor.co/oldImgs/projects/atlas/atlasPreview.png)
+##
+
+
+![App Screenshot](https://clevor.co/oldImgs/projects/atlasBanking/atlasBankingBanner.png)
+
+![App Screenshot](https://clevor.co/oldImgs/projects/atlasBanking/bankingProject.png)
+##
