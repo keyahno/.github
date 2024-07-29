@@ -24,21 +24,30 @@
 
 <h3 align="left">My Projects: (WiP)</h3>
 
-![App Screenshot](https://clevor.co/oldImgs/projects/atlas/atlasBanner.png)
+![App Screenshot](https://clevor.co/oldImgs/projects/gymniac/gymniacGithubBanner.png)
+
+#### Information
+
+- Gymniac Website -> [HERE](https://gymniac.app)
+- Apple Appstore Link -> [HERE](https://apps.apple.com/us/app/gymniac/id6476600191)
 
 #### Features
 
-- Light/dark mode toggle
+- Cloud based fitness tracking
+- Customizable workout tracking
+- Detailed calorie burn tracking
+- Comprehensive meal and macro tracking
+- In-app chat support for assistance and feedback
 
 ![App Screenshot](https://clevor.co/oldImgs/projects/atlas/atlasPreview.png)
 ##
 
+![App Screenshot](https://clevor.co/oldImgs/projects/atlas/atlasBanner.png)
+
+![App Screenshot](https://clevor.co/oldImgs/projects/atlas/atlasPreview.png)
+##
 
 ![App Screenshot](https://clevor.co/oldImgs/projects/atlasBanking/atlasBankingBanner.png)
-
-#### Information
-
-- Atlas Banking Project Website -> [HERE](https://clevor.co/projects/atlas)
 
 ![App Screenshot](https://clevor.co/oldImgs/projects/atlasBanking/bankingProject.png)
 ##
