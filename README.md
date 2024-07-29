@@ -39,7 +39,7 @@
 - Comprehensive meal and macro tracking
 - In-app chat support for assistance and feedback
 
-![App Screenshot](https://clevor.co/oldImgs/projects/atlas/atlasPreview.png)
+![App Screenshot](https://clevor.co/oldImgs/projects/gymniac/gymniacSmallerGithubPhoto.png)
 ##
 
 ![App Screenshot](https://clevor.co/oldImgs/projects/atlas/atlasBanner.png)
