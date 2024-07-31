@@ -24,7 +24,7 @@
 
 <h3 align="left">My Projects: (WiP)</h3>
 
-![App Screenshot](https://clevor.co/oldImgs/projects/gymniac/gymniacGithubBanner.png)
+![App Screenshot](https://keano.cc/projects/gymniac/gymniacGithubBanner.png)
 
 #### Information
 
@@ -39,7 +39,7 @@
 - Comprehensive meal and macro tracking
 - In-app chat support for assistance and feedback
 
-![App Screenshot](https://clevor.co/oldImgs/projects/gymniac/gymniacSmallerGithubPhoto.png)
+![App Screenshot](https://keano.cc/projects/gymniac/gymniacSmallerGithubPhoto.png)
 ##
 
 ![App Screenshot](https://clevor.co/oldImgs/projects/atlas/atlasBanner.png)
